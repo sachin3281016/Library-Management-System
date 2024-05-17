@@ -101,15 +101,6 @@ Make sure you have the following software installed on your machine:
 - **01-BACKEND/spring-boot-library**: This directory contains the Spring Boot backend application.
 - **02-FRONTEND/react-library**: This directory contains the React.js frontend application.
 
-### Contributing
-
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details on how to contribute to this project.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
 ### Additional Tips
 
 - **Ensure your README is up-to-date**: Regularly update your README file to reflect any changes in the project structure or setup instructions.
