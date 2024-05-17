@@ -1,0 +1,6 @@
+com\luv2read\springbootlibrary\config\MyDataRestConfig.class
+com\luv2read\springbootlibrary\controller\PaymentController.class
+com\luv2read\springbootlibrary\controller\MessageController.class
+com\luv2read\springbootlibrary\controller\BookController.class
+com\luv2read\springbootlibrary\controller\ReviewController.class
+com\luv2read\springbootlibrary\controller\AdminController.class

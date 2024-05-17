@@ -1,0 +1,75 @@
+:root {
+  --mainOpacity: rgba(0, 0, 0, 0.55);
+}
+
+/* Header styling */
+.header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./Images/PublicImages/image-2.jpg");
+  opacity: var(--mainOpacity);
+  height: 25em !important;
+}
+
+/* Dark overlay for header */
+.dark-overlay {
+  background-color: rgba(0, 0, 0, 0.35);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100;
+}
+
+/* Main color styling */
+.main-color {
+  background-color: #0e76a8;
+}
+
+/* Text color styling */
+.tc {
+  color: white;
+}
+
+.tc:hover,
+.tc:active {
+  background-color: white;
+  color: #0e76a8 !important;
+}
+
+/* Left column image styling */
+.col-image-left {
+  background-image: url("./Images/PublicImages/image-4.jpg");
+  height: 25em;
+}
+
+/* Right column image styling */
+.col-image-right {
+  background-image: url("./Images/PublicImages/image-1.jpg");
+  height: 25em !important;
+}
+
+/* Lost image styling */
+.lost-image {
+  background-image: url("./Images/PublicImages/image-3.jpg");
+  height: 25em !important;
+  width: "720";
+}
+
+/* Styling for homepage carousel title */
+.homepage-carousel-title {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+/* Styling for book div */
+.book-div {
+  width: 480px;
+  height: 384px;
+}
+
+/* Styling for inactive link */
+.inactivelink {
+  pointer-events: none;
+  cursor: default;
+}
